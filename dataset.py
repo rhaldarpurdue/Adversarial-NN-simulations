@@ -22,7 +22,7 @@ import time
 
 import os.path
 
-from net import *
+#from net import *
 
 from sklearn import datasets
 
